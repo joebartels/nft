@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Data #1",
+    "description": "December 25, 2021",
+    "sha256": "ac45f56a59a37b2207e5e67c4e42fd81f0a09a67",
+    "locations": {
+      "github": "https://github.com/joebartels/nft/raw/3ee476b/assets/data.png"
+    }
+  },
+  {
+    "name": "Fukuoka #1",
+    "description": "December 25, 2021",
+    "sha256": "7ecd9846b7d62ec627a1f997e1cce12bfa2e942d",
+    "locations": {
+      "github": "https://github.com/joebartels/nft/raw/3ee476b/assets/dxrG.png"
+    }
+  },
+  {
+    "name": "Fukuoka #2",
+    "description": "December 25, 2021",
+    "sha256": "28d34392f2015f3729669779c8300258f554b129",
+    "locations": {
+      "github": "https://github.com/joebartels/nft/raw/3ee476b/assets/oDs9.png"
+    }
+  },
+  {
+    "name": "Fukuoka #3",
+    "description": "December 25, 2021",
+    "sha256": "c0e6fb838abfb3367184e85d463d80ebd99a6c14",
+    "locations": {
+      "github": "https://github.com/joebartels/nft/raw/3ee476b/assets/Vtv5.png"
+    }
+  }
+]
