@@ -148,11 +148,6 @@ Simple policies are ones that do not require coding a contract.
 
 A common policy is a multi-signature policy, which is simply a list of `[{ "type": "sig", "keyHash": "abcdef" }, ...]` policies where policy `{ "type": "all" }`.
 
-# Resources
-
-- docs on simple policy scripts
-  - https://web.archive.org/web/20210601112403/https://docs.cardano.org/projects/cardano-node/en/latest/reference/simple-scripts.html
-
 ### Creating our Minting Policy
 
 I'm going to go with a simple "before" policy that requires 1 signature.
@@ -274,5 +269,12 @@ cardano-cli transaction sign \
 ### Submitting the signed transaction
 
 ```bash
-
+cardano-cli transaction submit \
+--mainnet \
+--tx-file ./cardano/policies/datadog/tx/testnettx.signed
 ```
+
+# Resources
+
+- docs on simple policy scripts
+  - https://web.archive.org/web/20210601112403/https://docs.cardano.org/projects/cardano-node/en/latest/reference/simple-scripts.html

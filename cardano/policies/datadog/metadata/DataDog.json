@@ -1,15 +1,28 @@
 {
   "721": {
     "version": "1.0",
-    "30d981140bacc3dff8722741fc7567c86ef2acf7df1fdc272924627a": {
-      "DataDog1": {
-        "name": "DataDog #1",
-        "description": "Testing with a simple image field to redirected asset",
+    "f153585a343ecacb060d4369db79f1b7c9de8669ae1814c42904ed4c": {
+      "DataDog": {
+        "name": "DataDog",
+        "description": "DataDog Token #0",
         "mediaType": "image/png",
-        "image": "https://github.com/joebartels/nft/raw/3ee476b/assets/data.png",
+        "image": "ipfs://QmSqfYDBevHWhGGHBureR9j66zoe1xStbX6tLCbXW5DdJP",
+        "attributes": [
+          "Cute",
+          "Fast",
+          "Handsome"
+        ],
+        "breeds": [
+          "Australian Cattle Dog", 
+          "Beagle",
+          "Chow Chow",
+          "Papillon", 
+          "Rottweiler",
+          "Shetland Sheepdog"
+        ],
         "files": [
           {
-            "name": "DataDog #1 file as data image url",
+            "name": "DataDog ",
             "mediaType": "image/png",
             "src": [
               "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpi",

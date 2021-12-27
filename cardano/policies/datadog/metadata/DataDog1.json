@@ -2,14 +2,14 @@
   "721": {
     "version": "1.0",
     "f153585a343ecacb060d4369db79f1b7c9de8669ae1814c42904ed4c": {
-      "DataDog2": {
-        "name": "DataDog #2",
-        "description": "Testing with a IPFS url",
+      "DataDog1": {
+        "name": "DataDog #1",
+        "description": "Testing with a simple image field to redirected asset",
         "mediaType": "image/png",
-        "image": "ipfs://QmSqfYDBevHWhGGHBureR9j66zoe1xStbX6tLCbXW5DdJP",
+        "image": "https://github.com/joebartels/nft/raw/3ee476b/assets/data.png",
         "files": [
           {
-            "name": "DataDog #2 file as data image url",
+            "name": "DataDog #1 file as data image url",
             "mediaType": "image/png",
             "src": [
               "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpi",
