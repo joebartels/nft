@@ -65,7 +65,7 @@ Now, use a wallet to send some funds to the new address. e.g. 10**ADA** will all
 
 ### Query to confirm the funds are received
 
-This often takes at least 20 seconds.
+This can take anywhere from a few seconds to several minutes to show up.
 
 ```bash
 cardano-cli query utxo --address $(cat payment.addr) --mainnet
