@@ -1,0 +1,29 @@
+{
+  "721": {
+    "version": "1.0",
+    "9ddcbd5323aaffb67ea0fa7d0c5c07b991177216c65cda118c0f6220": {
+      "BuyBuyBuy": {
+        "name": "Buy Buy Buy",
+        "description": [
+          "Buy the decline, buy the dip, buy the incline.", 
+          "But oh God, please do not buy this Token!"
+        ],
+        "mediaType": "image/gif",
+        "image": [
+          "ipfs://bafybeibvhvmo6fct7b224era7",
+          "u72ciz3ljppoowydgwwf3staq4nnbv64q"
+        ],
+        "files": [
+          {
+            "name": "buybuybuy.mp4",
+            "mediaType": "video/mp4",
+            "src": [
+              "ipfs://bafkreibyk7x6cr54iu3w3jysx",
+              "i4zn4vyrfr3l2kjvhod3n5b7cypcvik6i"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
